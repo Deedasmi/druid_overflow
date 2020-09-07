@@ -1,0 +1,9 @@
+[package]
+name = "client"
+version = "0.1.0"
+authors = ["Deedasmi <rap1011@ksu.edu>"]
+edition = "2018"
+
+[dependencies]
+tokio = "0.2.22"
+druid = "*"
